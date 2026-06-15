@@ -1,0 +1,19 @@
+lib/api.ts
+  s_fa8b01a193eca1::t_cdb9706d474876 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "89055770fe6f941030f3d21201d19c4376f9f284",
+  "prompts": {},
+  "sessions": {
+    "s_fa8b01a193eca1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb135275-793e-4b9d-8910-f74224ba4497",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "wtaborda_meli <wilder.taborda@mercadolibre.com.co>"
+    }
+  }
+}
