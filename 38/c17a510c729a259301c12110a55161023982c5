@@ -1,0 +1,30 @@
+tsconfig.json
+  s_6f2bfd68311e91::t_2a2d948efbc052 16
+next.config.ts
+  s_6f2bfd68311e91::t_3bd158cd469787 4-11
+.npmrc
+  s_6f2bfd68311e91::t_13ff3dda7eadc6 1
+lib/api.ts
+  s_6f2bfd68311e91::t_71744ff120d185 15-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "38c17a510c729a259301c12110a55161023982c5",
+  "prompts": {},
+  "humans": {
+    "h_c49f5768e8ddb0": {
+      "author": "wtaborda_meli <wilder.taborda@mercadolibre.com.co>"
+    }
+  },
+  "sessions": {
+    "s_6f2bfd68311e91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9c0c8f1-1cdb-48f7-8c65-fa625f8a3451",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
