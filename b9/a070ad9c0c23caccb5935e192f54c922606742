@@ -1,0 +1,29 @@
+lib/api.ts
+  s_fa8b01a193eca1::t_cdb9706d474876 15
+.npmrc
+  s_6f2bfd68311e91::t_13ff3dda7eadc6 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "b9a070ad9c0c23caccb5935e192f54c922606742",
+  "prompts": {},
+  "sessions": {
+    "s_6f2bfd68311e91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9c0c8f1-1cdb-48f7-8c65-fa625f8a3451",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    },
+    "s_fa8b01a193eca1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb135275-793e-4b9d-8910-f74224ba4497",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "wtaborda_meli <wilder.taborda@mercadolibre.com.co>"
+    }
+  }
+}
