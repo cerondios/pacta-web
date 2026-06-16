@@ -1,0 +1,74 @@
+lib/types.ts
+  s_72b023079fe27c::t_beaae938bd554a 243-251
+  s_72b023079fe27c::t_301d267d431315 225-234
+  s_6f2bfd68311e91::t_16860c482abe72 199
+lib/api.ts
+  s_6f2bfd68311e91::t_8f05146f1cf5b3 12-16,18-19
+  s_6f2bfd68311e91::t_e87e4e6ea427dc 21
+  s_6f2bfd68311e91::t_034ef888fc18d8 169-200,203,206,210-223
+  s_72b023079fe27c::t_977fb09426ef1c 207-209
+  s_72b023079fe27c::t_1ebdd0954c7cf1 201-202,204-205
+  s_72b023079fe27c::t_7d07a7c58e118f 17
+  s_6f2bfd68311e91::t_c98bec1c1a6ae7 23-26
+components/organisms/AppNav.tsx
+  s_6f2bfd68311e91::t_70b0315845c30e 98-103
+  s_72b023079fe27c::t_708682dd3872ab 47-60
+  s_72b023079fe27c::t_7b550c20c4ed2d 115-116
+  s_72b023079fe27c::t_89dddf4231a102 14
+.npmrc
+  s_6f2bfd68311e91::t_13ff3dda7eadc6 1
+app/profile/page.tsx
+  s_6f2bfd68311e91::t_64ccb0d7fdb03e 1-8,10-16
+  s_72b023079fe27c::t_59892fc90c1359 9
+lib/cookies.ts
+  s_6f2bfd68311e91::t_106dcc7ea9ef4d 1
+  s_6f2bfd68311e91::t_1f1aaea444b589 24
+components/organisms/ProfileView.tsx
+  s_72b023079fe27c::t_1f4e85698304ba 45,50,58,60-61,63,66,69
+  s_72b023079fe27c::t_bd14c83222f48a 104
+  s_72b023079fe27c::t_9fbf029eb07b06 117
+  s_72b023079fe27c::t_a9e71e5db18ed4 309,311-312,315-319,324,326-329,331-332,335,343-344,349,370
+  s_72b023079fe27c::t_1785362b620c22 123-124,128,131-135,137-139,156,159,162
+  s_72b023079fe27c::t_e8b090a038639c 357,359
+  s_72b023079fe27c::t_7c9a3bbba11cce 380
+  s_72b023079fe27c::t_872d8bcce27bcb 153-155,157,161,164,167-168,174-180,183-189
+  s_72b023079fe27c::t_44b72067179fe9 17,21
+  s_72b023079fe27c::t_b0189e79651356 279-280,285-286,291-292,296
+  s_6f2bfd68311e91::t_b8f0eb62878222 1-6,8-16,18-20,22-44,46-49,51-57,59,62,64-65,67-68,70-100,106-116,118-122,125-127,129-130,136,140-152,158,163,169-173,190-278,281-284,287-290,293-295,297-308,310,313-314,320-321,323,325,339-342,345-348,350-356,358,361-369,371-372,374-378,381-382,384-483
+  s_72b023079fe27c::t_e522884d2e60ac 160,165-166,181-182
+  s_72b023079fe27c::t_079cd1a15588be 7
+  s_72b023079fe27c::t_246ca0e9171fee 322,330,333-334,336-338,360,373,379,383
+  s_72b023079fe27c::t_c7761cc465e3b4 101-103,105
+next.config.ts
+  s_6f2bfd68311e91::t_72379b2f8645de 6-14
+  s_6f2bfd68311e91::t_8c774390f454eb 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "2e95598d55be8b2ea1c96d55b6542c39f610dbcf",
+  "prompts": {},
+  "humans": {
+    "h_c49f5768e8ddb0": {
+      "author": "wtaborda_meli <wilder.taborda@mercadolibre.com.co>"
+    }
+  },
+  "sessions": {
+    "s_6f2bfd68311e91": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a9c0c8f1-1cdb-48f7-8c65-fa625f8a3451",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    },
+    "s_72b023079fe27c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "23f49c07-97da-45ac-89f1-b732b6198ab5",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
